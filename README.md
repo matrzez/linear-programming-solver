@@ -1,4 +1,4 @@
-# Linear Programming Optimization with Solver
+# Programowanie liniowe z wykorzystaniem pakietu Solver
 
 ## 📌 Opis projektu
 
