@@ -2,24 +2,15 @@
 
 ## 📌 Opis projektu
 
-Projekt z zakresu **programowania liniowego**, który obejmuje:
+Projekt z zakresu **programowania liniowego**, który obejmuje poniższe zagadnienia:
+- Program dualny
+- Metodę graficzną
 - Algorytm Simpleks
 - Analizę wrażliwości
+- Algorytm transportowy
 - Algorytm węgierski
-- Rozwiązania problemów z wykorzystaniem **pakietu Solver** (Microsoft Excel)
 
-Celem projektu jest analiza wybranych zagadnień optymalizacyjnych oraz przedstawienie ich rozwiązań zarówno analitycznie, jak i przy pomocy narzędzi komputerowych.
-
----
-
-## 🔧 Zastosowane metody i narzędzia
-
-- **Programowanie liniowe** 
-- **Program dualny**
-- **Metoda graficzna i Simpleks**
-- **Solver (Excel)** – narzędzie do rozwiązywania problemów optymalizacyjnych
-- **Algorytm transportowy**
-- **Algorytm węgierski**
+Celem projektu jest analiza wybranych zagadnień optymalizacji oraz przedstawienie ich rozwiązań zarówno analitycznie, jak i przy pomocy narzędzi komputerowych.
 
 ---
 
