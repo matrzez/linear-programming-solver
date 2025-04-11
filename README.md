@@ -18,6 +18,7 @@ Celem projektu jest analiza wybranych zagadnień optymalizacji oraz przedstawien
 
 - Microsoft Excel + dodatek Solver
 - Matematyka stosowana / optymalizacja
+- LaTeX
 - Dokumentacja PDF
 
 ---
