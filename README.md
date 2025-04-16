@@ -5,7 +5,7 @@
 Projekt z zakresu **programowania liniowego**, który obejmuje poniższe zagadnienia:
 - Program dualny
 - Metodę graficzną
-- Algorytm Simpleks
+- Algorytm simpleks
 - Analizę wrażliwości
 - Algorytm transportowy
 - Algorytm węgierski
@@ -26,7 +26,7 @@ Celem projektu jest analiza wybranych zagadnień optymalizacji oraz przedstawien
 ## 📁 Pliki w repozytorium
 
 - `Programowanie_liniowe_-_wykorzystanie_pakietu_Solver.pdf` – pełny opis projektu, dane wejściowe, rozwiązania oraz analiza wyników.
-
+- `Metoda_graficzna.py` - kod wizualizujący rozwiązanie zadanego problemu metodą graficzną poprzez rysowanie ograniczeń, obszaru dopuszczalnego, gradientu funkcji celu oraz punktu optymalnego.
 ---
 
 ## 👨‍💻 Autor
