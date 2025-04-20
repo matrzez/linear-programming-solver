@@ -33,6 +33,6 @@ Celem projektu jest analiza wybranych zagadnień optymalizacji oraz przedstawien
 
 **Mateusz Rzeźnikiewicz**  
 Politechnika Rzeszowska, 2024  
-Opiekun: dr Krzysztof Pupka
+Opiekun naukowy: dr Krzysztof Pupka
 
 ---
